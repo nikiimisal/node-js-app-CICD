@@ -1,5 +1,7 @@
 # node-js-app-CICD
 
+its just my theory so skip it or dont bother to read
+
 This repository is created to set up a Jenkins CI/CD pipeline (either CICD pipeline or freestyle project pipeline).
 The first step in the process is to create a pull request.
 
